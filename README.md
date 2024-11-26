@@ -1,4 +1,4 @@
-# **Måndag 25 november 2024**
+# **Tisdag 26 november 2024**
 
 ## **Dagens upplägg**
 Dagen är indelad i två delar: förmiddagen innehåller en föreläsning och genomgång ledd av Annika, medan eftermiddagen ägnas åt individuell övning med handledning av Mandus och Robert. 
