@@ -24,12 +24,16 @@ Dagen är indelad i två delar: förmiddagen innehåller en föreläsning och ge
 ---
 
 ### **13:00 - 17:00**
-- **Individuell övning**  
+- **Individuell övning och e-learning**  
   Studenterna arbetar självständigt med att bygga en statisk, semantiskt korrekt HTML-sida om en hobby eller ett intresse.  
   Handledning av Mandus och Robert finns tillgänglig under hela eftermiddagen.
 
 - **Länk till övning:**  
   - **Hobby-hemsida**: [Övningens README](https://github.com/Lexicon-frontend-2024-2025/hobby-html--vning/blob/main/README.md)
+- **pluralsight**: [Nytt i HTML5/Semantiska element (del 1 - Overview & Update samt del 2 - HTML5 Elements)](https://app.pluralsight.com/library/courses/html-5-css-3-overview-tag-attribute-selector-additions/table-of-contents)
+- **Läsning**:
+- [HTML i VS Code](https://code.visualstudio.com/Docs/languages/html)
+- [VS Code Emmet](https://code.visualstudio.com/docs/editor/emmet)
 
 ---
 
