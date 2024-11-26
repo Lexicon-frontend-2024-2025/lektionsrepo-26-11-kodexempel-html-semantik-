@@ -32,8 +32,8 @@ Dagen är indelad i två delar: förmiddagen innehåller en föreläsning och ge
   - **Hobby-hemsida**: [Övningens README](https://github.com/Lexicon-frontend-2024-2025/hobby-html--vning/blob/main/README.md)
 - **pluralsight**: [Nytt i HTML5/Semantiska element (del 1 - Overview & Update samt del 2 - HTML5 Elements)](https://app.pluralsight.com/library/courses/html-5-css-3-overview-tag-attribute-selector-additions/table-of-contents)
 - **Läsning**:
-- [HTML i VS Code](https://code.visualstudio.com/Docs/languages/html)
-- [VS Code Emmet](https://code.visualstudio.com/docs/editor/emmet)
+  - [HTML i VS Code](https://code.visualstudio.com/Docs/languages/html)
+  - [VS Code Emmet](https://code.visualstudio.com/docs/editor/emmet)
 
 ---
 
